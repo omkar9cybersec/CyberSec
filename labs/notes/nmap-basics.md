@@ -58,3 +58,5 @@ db_nmap -sV 192.168.18.138    # scanned Windows Server 2022
 - OS        - Windows Server 2022
 - MAC       - 00:0C:29:AA:AD:14 (VMware)
 
+## Lab Screenshot
+![Nmap Scan Result](../labs/Screenshot 2026-07-02 102853.png)
