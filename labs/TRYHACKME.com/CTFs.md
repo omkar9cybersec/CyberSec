@@ -1,1 +1,1 @@
-Here I have all the screnshots of the labs practised in Tryhackme.com website
+Here I have all the screenshots of the labs practised in Tryhackme.com website
