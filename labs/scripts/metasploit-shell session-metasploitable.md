@@ -1,7 +1,7 @@
-# Metasploit Lab — Meterpreter Session on Metasploitable
+# Metasploit Lab — shell Session on Metasploitable achieved
 
 ## Objective
-Exploit Metasploitable Linux machine and gain Meterpreter shell from Kali.
+Exploit Metasploitable Linux machine and gain shell from Kali.
 
 ## Environment
 - Attacker: Kali Linux (192.168.18.128)
